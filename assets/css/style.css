@@ -1,0 +1,110 @@
+.everything {
+	width: 960px;
+	margin-left: 15%;	
+}
+
+header {
+	color: #ffffff;
+	font: font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 30px;
+	background-color: #4aaaa5;
+	float: left;	
+	text-align: center;
+	padding: 10px;
+}
+
+h1 {
+	clear: left;
+	margin-left: 20px;
+	color: #4aaaa5;
+	font-size: 30px;
+	width: 80%;
+	border-bottom-style: solid;
+	border-color: #dddddd;
+}
+
+.menu {
+	float: right;
+	width: 270px;
+	text-align: center;  
+	height: 50px;
+	background-color: white;
+
+
+}
+
+img {
+	float: left;
+	margin-left: 20px;
+}
+
+.text {
+	height: 350px;
+	margin-left: 20px;
+	color: #777777;
+	width: 80%;
+}
+
+p {
+	color: #777777;
+}
+
+textarea{
+width: 600px;
+
+}
+.main {
+	position: relative;
+	top: 100px;
+	width: 650px;
+	padding-top: 0px;
+	border-style: solid;
+	border-color: #dddddd;
+	background-color: white;
+}
+
+.links {
+	color: #4aaaa5;
+	float: left;
+	position: relative;
+	left: 683px;
+	top: -373px;
+	width: 270px;
+	border-style: solid;
+	border-color: #dddddd;
+	text-align: center;
+	background-color: white;
+}
+h3 {
+	text-decoration: underline;
+}
+
+.linkimages {
+
+}
+
+footer {
+	float: right;
+	background-color: #666666;
+	width: 860px;
+	padding: 50px;
+	text-align: center;
+	color: #777777;
+	position: relative;
+	top: 0px;
+	border-top-style: solid;
+	border-top-color: #4aaaa5;
+}
+
+#button {
+	width: 200px;
+	height: 60px;
+	background-color: #4aaaa5;
+	border-style: hidden;
+	color: #ffffff;
+	font-size: 15px;
+}
+
+#message {
+	height: 50px;
+}
